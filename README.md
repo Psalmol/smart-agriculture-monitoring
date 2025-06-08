@@ -71,5 +71,5 @@ smart-agriculture-monitoring/
 
 Built by **Engr. Psalmol – Remote IoT & Embedded Systems Engineer**  
 📫 akpsalmol@gmail.com  
-🔗 [LinkedIn]: https://www.linkedin.com/in/olalekan-samuel-akadiri-9b43a91b3/
-🌍 [GitHub]: https://github.com/Psalmol/
+🔗 [LinkedIn]: (https://www.linkedin.com/in/olalekan-samuel-akadiri-9b43a91b3/)
+🌍 [GitHub]: (https://github.com/Psalmol/)
