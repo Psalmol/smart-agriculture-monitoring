@@ -48,13 +48,13 @@ This system gathers data from multiple sensors and displays it remotely via **Bl
 
 ---
 
-<pre> ## 📁 Folder Structure 
-``` smart-agriculture-monitoring/ 
+## <pre> 📁 Folder Structure 
+ smart-agriculture-monitoring/ 
 ├── README.md
 ├── main.py
 ├── blynk-dashboard.png
 ├── wiring-diagram.png
-├── requirements.txt ``` </pre>
+├── requirements.txt  </pre>
 
 ---
 
