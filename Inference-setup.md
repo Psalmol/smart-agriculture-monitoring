@@ -16,7 +16,7 @@ This file contains essential information to run pest detection inference using a
 
 Two models are available on the Raspberry Pi:
 
-```bash
+
 /home/pi/modelfile.eim          # More accurate, slightly higher inference time
 /home/pi/modelfile_clean.eim    # Optimized for speed
 
