@@ -57,7 +57,7 @@ Soil Moisture	21
 Water Pump	22  
 Pest Detection In	23  
 
-Blynk credentials, Wi-Fi SSID, and password are hidden for security.
+Blynk credentials, Wi-Fi SSID, and password are hidden.
 
 🔐 Credentials
 All credentials (Blynk Token, Wi-Fi SSID, password) are excluded from this file for GitHub security. See .ino file or contact developer if deploying.
@@ -65,3 +65,16 @@ All credentials (Blynk Token, Wi-Fi SSID, password) are excluded from this file 
 # Maintained by: Engr. Psalmol
 Email: akpsalmol@gmail.com  
 LinkedIn: [olalekan-samuel-akadiri](https://www.linkedin.com/in/olalekan-samuel-akadiri-9b43a91b3/)
+
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+blynklib
+RPi.GPIO
+opencv-python
+edge_impulse_linux
+numpy
+
