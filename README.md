@@ -52,8 +52,8 @@ This system gathers data from multiple sensors and displays it remotely via **Bl
  smart-agriculture-monitoring/ 
 ├── README.md
 ├── main.py
+├── main.ino
 ├── blynk-dashboard.png
-├── wiring-diagram.png
 ├── requirements.txt  </pre>
 
 ---
