@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C++
+*.o
+*.out
+
+# Arduino
+*.hex
+*.elf
+
+# Edge Impulse
+*.eim
+model.*
+*.eon
+*.ei-project
+
+# Logs, temp, dumps
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets (optional)
+*.env
+credentials.txt
+wifi_secrets.h
