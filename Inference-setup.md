@@ -48,20 +48,20 @@ edge-impulse-linux-runner --download modelfile.eim   # Download trained model
 ESP32 reads the pest detection line from Raspberry Pi via GPIO and publishes the result to Blynk.
 
 ## GPIO Mapping
-Component	ESP32 GPIO
-RS485 TX	17
-RS485 RX	16
-RS485 DE/RE	18
-DS18B20 Temp Sensor	19
-Soil Moisture	21
-Water Pump	22
-Pest Detection In	23
+Component	ESP32 GPIO  
+RS485 TX	17  
+RS485 RX	16  
+RS485 DE/RE	18  
+DS18B20 Temp Sensor	19  
+Soil Moisture	21  
+Water Pump	22  
+Pest Detection In	23  
 
 Blynk credentials, Wi-Fi SSID, and password are hidden for security.
 
 🔐 Credentials
 All credentials (Blynk Token, Wi-Fi SSID, password) are excluded from this file for GitHub security. See .ino file or contact developer if deploying.
 
-Maintained by: Engr. Psalmol
-Email: akpsalmol@gmail.com
+# Maintained by: Engr. Psalmol
+Email: akpsalmol@gmail.com  
 LinkedIn: olalekan-samuel-akadiri
